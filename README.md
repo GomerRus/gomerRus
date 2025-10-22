@@ -2,7 +2,6 @@
 
 ### Language and Tools
 
-<div style="display: flex; justify-content: center;">
 ![Java](https://img.shields.io/badge/Java-D2691E?style=for-the-badje&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white)
@@ -16,7 +15,7 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=red)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-orange?style=for-the-badge&logo=junit&logoColor=white)
-</div>
+
 ---
 
 ### Statistics:
