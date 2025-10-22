@@ -2,7 +2,7 @@
 
 ### Language and Tools
 
-![Java](https://img.shields.io/badge/Java-D2691E?style=for-the-badje&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D2691E?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-green?style=for-the-badge&logo=springcloud&logoColor=white)
