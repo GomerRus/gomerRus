@@ -1,4 +1,4 @@
-![Header](https://github.com/GomerRus/gomerRus/blob/main/assets/label.jpg)
+![Header](https://github.com/GomerRus/gomerRus/blob/main/assets/Label1.jpg)
 
 ### Language and Tools
 
