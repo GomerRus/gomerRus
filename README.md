@@ -13,6 +13,7 @@
 ![Maven](https://img.shields.io/badge/Maven-FFFF00?style=for-the-badge&logo=apachemaven&logoColor=red)
 ![REST API](https://img.shields.io/badge/REST%20API-8B008B?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=red)
+![Docker](https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=dockerdesktop&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-orange?style=for-the-badge&logo=junit&logoColor=white)
 
